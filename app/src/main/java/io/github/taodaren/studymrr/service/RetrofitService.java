@@ -1,7 +1,7 @@
 package io.github.taodaren.studymrr.service;
 
 import io.github.taodaren.studymrr.app.I;
-import io.github.taodaren.studymrr.service.bean.BookBean;
+import io.github.taodaren.studymrr.service.entity.BookBean;
 import retrofit2.http.GET;
 import retrofit2.http.Query;
 import rx.Observable;

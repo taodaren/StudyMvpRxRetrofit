@@ -1,4 +1,4 @@
-package io.github.taodaren.studymrr.service.bean;
+package io.github.taodaren.studymrr.service.entity;
 
 import java.util.List;
 

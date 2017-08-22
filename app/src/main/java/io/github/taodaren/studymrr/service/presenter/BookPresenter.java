@@ -3,7 +3,7 @@ package io.github.taodaren.studymrr.service.presenter;
 import android.content.Context;
 import android.content.Intent;
 
-import io.github.taodaren.studymrr.service.bean.BookBean;
+import io.github.taodaren.studymrr.service.entity.BookBean;
 import io.github.taodaren.studymrr.service.manager.DataManager;
 import io.github.taodaren.studymrr.service.view.BookView;
 import io.github.taodaren.studymrr.service.view.View;

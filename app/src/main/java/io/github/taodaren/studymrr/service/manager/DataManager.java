@@ -4,7 +4,7 @@ import android.content.Context;
 
 import io.github.taodaren.studymrr.service.RetrofitHelper;
 import io.github.taodaren.studymrr.service.RetrofitService;
-import io.github.taodaren.studymrr.service.bean.BookBean;
+import io.github.taodaren.studymrr.service.entity.BookBean;
 import rx.Observable;
 
 /**

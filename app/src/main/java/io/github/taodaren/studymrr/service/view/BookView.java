@@ -1,6 +1,6 @@
 package io.github.taodaren.studymrr.service.view;
 
-import io.github.taodaren.studymrr.service.bean.BookBean;
+import io.github.taodaren.studymrr.service.entity.BookBean;
 
 /**
  * 展示 book 接口

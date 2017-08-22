@@ -7,7 +7,7 @@ import android.widget.TextView;
 import android.widget.Toast;
 
 import io.github.taodaren.studymrr.R;
-import io.github.taodaren.studymrr.service.bean.BookBean;
+import io.github.taodaren.studymrr.service.entity.BookBean;
 import io.github.taodaren.studymrr.service.presenter.BookPresenter;
 import io.github.taodaren.studymrr.service.view.BookView;
 
